@@ -1,0 +1,9 @@
+"applinks": {
+  "apps": [],
+  "details": [
+    {
+      "appID": "U32D7BTW8C.dev.ibgrav.studentmyhbs",
+      "paths": ["*", "/"]
+    }
+  ]
+}
